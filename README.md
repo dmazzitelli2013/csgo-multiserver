@@ -58,6 +58,8 @@ These scripts run in `bash` in _GNU/Linux_, so it expects usual commands to be a
 
 Also remember the [dependencies of SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD#Linux)! (On Ubuntu/Debian 64 Bit: `sudo apt install lib32gcc1`)
 
+`sudo apt-get install lib32stdc++6`
+
 Additional dependencies are:
 
 * _tmux_, version 2.1+, see https://tmux.github.io/ (Installed by default in Ubuntu Server 16.04)
